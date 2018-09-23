@@ -1,0 +1,71 @@
+[
+  {
+    "name" : "Hermès",
+    "description" : "Hermès est notre plus petite salle de réunion. Vous y trouverez à l'intérieur tout l'équipement nécessaire pour rendre vos réunions courtes, mais efficaces.",
+    "capacity" : 4,
+    "equipements" : [
+      {
+        "name" : "TV"
+      },
+      {
+        "name" : "Telephone"
+      }
+    ],
+    "createdAt" : "2016-12-07T12:39:29.812Z",
+    "updatedAt" : "2016-12-08T17:31:39.489Z",
+    "imgName" : "hermes"
+  }, {
+    "name" : "Arès",
+    "description" : "Arès est une salle parfaite pour vos démonstrations et vos powerpoints. Elle est assez grande pour accueillir une dizaine de personne, et est équipée d'un rétro-projecteur.",
+    "capacity" : 12,
+    "equipements" : [
+      {
+        "name" : "TV"
+      },
+      {
+        "name" : "Retro Projecteur"
+      }
+    ],
+    "createdAt" : "2016-12-07T12:39:55.384Z",
+    "updatedAt" : "2016-12-07T13:33:37.184Z",
+    "imgName" : "ares"
+  }, {
+    "name" : "Hadès",
+    "description" : "Cette salle ne contient aucun équipement, si ce n'est des chaises et une table. C'est un peu l'antichambre des Enfers rapportée aux salles de réunions.",
+    "capacity" : 8,
+    "equipements" : [
+      {
+        "name" : "TV"
+      },
+      {
+        "name" : "Retro Projecteur"
+      }
+    ],
+    "createdAt" : "2016-12-07T14:15:55.733Z",
+    "updatedAt" : "2016-12-09T16:45:19.025Z",
+    "imgName" : "hades"
+  }, {
+    "name" : "Apollon",
+    "description" : "Plus belle salle de notre espace de co-working, Apollon est équipée d'un rétro-projecteur et d'une TV. Pas sûr qu'elle ne serve qu'aux réunions.",
+    "capacity" : 9,
+    "equipements" : [],
+    "createdAt" : "2016-12-09T16:45:34.419Z",
+    "updatedAt" : "2016-12-09T16:45:34.419Z",
+    "imgName" : "apollon"
+  }, {
+    "name" : "Morphée",
+    "description" : "Cette salle peut accueillir plus d'une vingtaine de collaborateurs, pour rendre vos réunions interminables et soporiphiques.",
+    "capacity" : 26.0,
+    "equipements" : [
+      {
+        "name" : "Telephone"
+      },
+      {
+        "name" : "Retro Projecteur"
+      }
+    ],
+    "createdAt" : "2016-12-09T16:45:49.096Z",
+    "updatedAt" : "2016-12-09T16:45:49.096Z",
+    "imgName" : "morphee"
+  }
+]
