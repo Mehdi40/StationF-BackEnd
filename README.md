@@ -1,8 +1,11 @@
 # Installation
 
 `git clone git@github.com:Mehdi40/StationF-BackEnd.git`
+
 `cd StationF-BackEnd/`
+
 `npm install`
+
 `npm start`
 
 ## Tests :
